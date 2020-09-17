@@ -1,0 +1,7 @@
+{
+  "name": "DAH-Beacon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
